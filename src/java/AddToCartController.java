@@ -9,7 +9,7 @@ import store.Store;
  * sesje klienta aby dodac 
  * do koszyka
  * 
- * @author Dominika Guziec
+ * 
  * 
  *
  */
